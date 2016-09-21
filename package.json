@@ -1,0 +1,15 @@
+{
+  "name": "fcc_req_head_parse_nikburazor",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Project - Request Header Parser Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "nikola burazor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
